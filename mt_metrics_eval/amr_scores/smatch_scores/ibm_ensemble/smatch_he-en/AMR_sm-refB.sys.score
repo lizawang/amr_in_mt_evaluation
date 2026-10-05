@@ -1,0 +1,14 @@
+GPT4-5shot	0.778
+GTCOM_Peter	0.747
+Lan-BridgeMT	0.699
+NLLB_Greedy	0.704
+NLLB_MBR_BLEU	0.696
+ONLINE-A	0.754
+ONLINE-B	0.757
+ONLINE-G	0.735
+ONLINE-Y	0.724
+refA	0.735
+Samsung_Research_Philippines	0.668
+UvA-LTL	0.735
+ZengHuiMT	0.741
+refB	1.000

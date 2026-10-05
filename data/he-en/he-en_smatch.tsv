@@ -1,0 +1,14 @@
+GPT4-5shot	Precision: 0.718    Recall: 0.708   F-score: 0.713
+GTCOM_Peter	Precision: 0.687    Recall: 0.681   F-score: 0.684
+Lan-BridgeMT	Precision: 0.650    Recall: 0.626   F-score: 0.638
+NLLB_Greedy	Precision: 0.657    Recall: 0.633   F-score: 0.645
+NLLB_MBR_BLEU	Precision: 0.651    Recall: 0.624   F-score: 0.637
+ONLINE-A	Precision: 0.693    Recall: 0.686   F-score: 0.690
+ONLINE-B	Precision: 0.693    Recall: 0.694   F-score: 0.693
+ONLINE-G	Precision: 0.679    Recall: 0.660   F-score: 0.669
+ONLINE-Y	Precision: 0.666    Recall: 0.658   F-score: 0.662
+Samsung_Research_Philippines	Precision: 0.676    Recall: 0.558   F-score: 0.612
+UvA-LTL	Precision: 0.682    Recall: 0.661   F-score: 0.671
+ZengHuiMT	Precision: 0.628    Recall: 0.678   F-score: 0.652
+refA	Precision: 0.671    Recall: 0.675   F-score: 0.673
+refB	Precision: 1.000    Recall: 1.000   F-score: 1.000
